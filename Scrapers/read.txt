@@ -1,0 +1,11 @@
+#Mlks1981
+There's 2 types of scrapers:
+
+1:
+First one checks for online members
+Automatically formats for you
+
+2:
+Checks for a specific channel of a server
+You have to enter server and channel id
+You have to format it yourself using the convert script
